@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lock Tile</string>
+    <string name="accessibility_service_label">Lock Screen Tile</string>
+    <string name="accessibility_service_description">Requires accessibility permissions to function properly.</string>
+    <string name="error_occurred">Make sure to enable the accessibility service!</string>
+    <string name="tile_service_label">Lock Screen</string>
+</resources>
